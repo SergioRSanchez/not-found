@@ -6,4 +6,4 @@
 <img src='./src/assets/capa.png'>
 
 <br>
-<a href='https://june-recipe.vercel.app/' target='_blank'>Deploy</a>
+<a href='https://not-found-ch27.vercel.app/' target='_blank'>Deploy</a>
