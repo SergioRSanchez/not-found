@@ -51,7 +51,7 @@ export default function Home() {
             ></iframe>
             {/* Brilho atrás do planeta */}
             <iframe
-              className="absolute inset-0 -z-10 h-56 w-56 scale-125 opacity-50"
+              className="absolute inset-0 -z-10 h-56 w-56 scale-150 opacity-100"
               style={{ filter: 'blur(100px)' }}
               src="https://lottie.host/?file=ab7a5c4d-d0de-4877-be5e-8cffedab2bf1/f7kJBYBWYz.json"
             ></iframe>
