@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center sm:flex-row">
       {/* ESQUERDA */}
-      <div className="flex flex-1 flex-col items-center justify-center gap-14 text-center sm:text-left">
+      <div className="flex flex-1 flex-col items-center justify-center gap-14 text-center sm:items-start sm:pl-40 sm:text-left">
         {/* Textos */}
         <div className="flex max-w-[380px] flex-col gap-6">
           <h1 className="text-4xl font-bold sm:text-[2.5rem]">
